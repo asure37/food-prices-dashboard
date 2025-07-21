@@ -1,0 +1,9 @@
+{
+  "title": "Tableau des prix alimentaires au Canada",
+  "select_food_type": "Choisir le type d'aliment",
+  "select_provinces": "Choisir la/les province(s)",
+  "select_date_range": "Choisir la période",
+  "line_chart_title": "Prix au fil du temps pour {{type}}",
+  "bar_chart_title": "Comparaison des prix ({{date}})",
+  "language": "Langue"
+}
