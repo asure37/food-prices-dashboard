@@ -1,0 +1,9 @@
+{
+  "title": "Canadian Food Prices Dashboard",
+  "select_food_type": "Select food type",
+  "select_provinces": "Select province(s)",
+  "select_date_range": "Select date range",
+  "line_chart_title": "Price Over Time for {{type}}",
+  "bar_chart_title": "Price Comparison ({{date}})",
+  "language": "Language"
+}
